@@ -1,2 +1,5 @@
 # MRCM-Website
-The Official Website of Mahinda Rajapaksha College. mrcm.lk
+The Official Website of Mahinda Rajapaksha College. 
+
+## [Visit OFC Web](https://mrcm.lk)
+
